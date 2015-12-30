@@ -1,0 +1,12 @@
+/****** footer.css ************/
+
+#main_footer{overflow:hidden;background:#1b1b1b;
+height:35px; border-top:1px solid #000; box-sizing:border-box; 
+}
+
+#bottom{float:left;}
+#bottom > ul{overflow:hidden;}
+#bottom > ul > li{float:left; margin-right:18px;}
+#bottom > ul > li > a{display:block; color:#6e6e6e; font-size:11px; line-height:35px;}
+
+#main_footer > address{float:right; color:#6e6e6e; font-size:11px; line-height:35px;}
